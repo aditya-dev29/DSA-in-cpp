@@ -1,5 +1,7 @@
-
-
+// Problem: Reverse an array
+// Approach: Two-pointer technique (swap elements from start and end moving towards center)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
 
 
 #include<iostream>
